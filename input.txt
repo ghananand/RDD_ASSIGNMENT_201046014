@@ -1,0 +1,3 @@
+When to Scale?
+
+Scaling can be difficult, but absolutely necessary in the growth of a successful data-driven company. There are a few signs that it’s time to implement a scaling platform. When users begin complaining about slow performance, or service outages, it’s time to scale. Don’t wait for the problem to turn into major source of contention in the minds of your customers. This can have a massively negative impact on retaining those customers. If possible, try to anticipate the problem before it becomes severe. In addition to this, increased application latency, slow read queries rises and database writes are also important indicators that a scale is needed.
